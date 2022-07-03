@@ -5,6 +5,8 @@ date: 2022-07-03T18:17:32.628Z
 description: My html snippets
 featuredpost: true
 featuredimage: /img/tutorials.png
+tags:
+  - align
 ---
 Align text
 
